@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8764e3f-cccc-4224-9ad6-b4bd32580286" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DeepLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labN1.ipynb" afterDir="false" />
+    <list default="true" id="d8764e3f-cccc-4224-9ad6-b4bd32580286" name="Changes" comment="+">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labN1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/labN1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +76,37 @@
       <workItem from="1744875779823" duration="45000" />
       <workItem from="1744887428146" duration="26422000" />
       <workItem from="1745230801353" duration="16374000" />
-      <workItem from="1745260101440" duration="5662000" />
+      <workItem from="1745260101440" duration="15946000" />
+      <workItem from="1745317184519" duration="1117000" />
+      <workItem from="1745330893171" duration="1215000" />
     </task>
+    <task id="LOCAL-00001" summary="+">
+      <option name="closed" value="true" />
+      <created>1745301069680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745301069680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
 </project>
